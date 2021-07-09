@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tp-gke-docker",
+  "private_key_id": "9342bc82885c4a16240160de6cf41d35fa830787",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD0NqgtR/1Huux/\nFeuRoz1h3Z7Zh96UB7hkZn+KlXclprOey+GaNRX+UbHizsDvJvFLBm7UmXnzweSV\nnFVX65K8sXb6BHJX+wh1GL5U4HEjsYZtjvLw3m1bbdyec9l0jSirGFBNpAE4feSe\nitRSrfVCe8DtLqgm4LiUADVgwaeb8v14cH3UJ/PtLOGVcSEIYqDdAvGwC+cRrFQo\n4Qh/Qy1ffUUfC+MbSpYCRK5tZuZe2eoXFawHcFI1upwMkqna6YN2/X/ltDvoXMX8\nOldREo+MaejBRPKDMYCVdQyyzwF3Rz7FPiZ/xNQMHOQoFy7nrb6RB8IetMBqu+Ng\nNl0SWj6TAgMBAAECggEAV8todXLqdsWX7O4r9H0LfannSAvE9FG8M/f3RRKLtXDz\nJRTlw4LvJ7El8sRibveAinjDElIkmgGsFC8SLVvmskhYXfSISOHZ/gLJtgjEE9Fn\n4u4fn4FPLi3WQO6kD/cJVk0U3Xym5bC4pliBkUGxqNeFmZ8K24MxSB+1ENY90915\nAGbKZdtSHe9TKYVukKsiQxGqlSdYgaSM79FfWzicKqsOEsQu/ktpOTzVBrrT5LGP\nm681znTXJaRlk7buBkknbVnKNxVqsQCuXQZXlA2Vji0FekTUudV9LpSB56nrgv2P\ndndRqtSF3bi2GRkxx83MbJNgPfcYZcYtNzuau9XQEQKBgQD9EyxCNEoXzKW87qiR\nYRTSSYI0hEgvPXzbeagNFFT/l13LreCO5lukWd8cr08dhqEifgNZEX8wSl5CHdVK\nG6wIMns4NEuc0D9UZITFc1DBcP7SChbL33p2Kkttkd3DzvhA0MdStl82DkvcuYy/\ncVYvLMm4Xa67ZYf7emglJrn8EQKBgQD3CUOSgSs31fPCsadLh8DdLs5qcSBKqAsL\nIg7nKyZAkL5osdKNxe+54gF7pYb7chiabUICDwo7I4OQIncvTj8TkkAPBOjjLHvq\noNLDwGV08jyXzTqPPygUzMs0alNLwxSqbjHAwQBMXxyxo4S6ENherqhqLAkbYLfE\nF0ddhCWEYwKBgQCo5pHkQXetuJRoqrNwC2XVDuBKYnq2pIffBqukxwwPZRthY1N6\nq70/zAc+4rWflAmYtpdPa4ECXq/X2odOJXfEJMTd9vD74HRTw55lFRgxclNvJPKf\n8C+QC5w5rV9fXpOK1owg5LxYnGP/FQsdfeuyImcil8uVICcILGKzYMxBsQKBgD7r\nSR6jb5KFF9Ta0rVWGjU7mq9ZqNPbARUQ06LlRpTjSNv5jps1ct1xRtdrTXn1kXaj\npVBI7F4rqXKolJqj30To1w/8PCTAS79yvrvE4RJsMCqpxuR9PYQutQLgod6GDVlr\nP5jMj3rkLra/4ypQ6AsViSehl6A1fhifpTmYUsXpAoGAJNWQRkbtkISyHoqMvDMz\nKFgfWRnfp+SEe5Jzu1FcsOpLl1a7oyXAUVEIrFS2tU5RaQPcs7siPB1A+fpqeiTL\nqklTjLlJ6vVtqtlxHFFswA7pVt4v+Dz+XYu/vHklAcN0Lye9DIyKnuU87CxM1W3n\n7jfQYIsFgexhD7hoq/fkwW0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gke-tp@tp-gke-docker.iam.gserviceaccount.com",
+  "client_id": "107017356012319992085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-tp%40tp-gke-docker.iam.gserviceaccount.com"
+}
